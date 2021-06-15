@@ -7,7 +7,7 @@
   </h1>
 
 <h3 align="center">
-    <a href="https://current-hour.netlify.app/">Access demo page</a>
+    <a href="https://age-checker.netlify.app/">Access demo page</a>
 <h3 >
 
 # Index
